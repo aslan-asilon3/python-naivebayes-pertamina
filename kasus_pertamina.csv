@@ -1,0 +1,16 @@
+Jalan,Lebar Jalan,Volume kendaraan,Jumlah pesaing,Jumlah pemukiman,Lokasi Strategis
+Jl. Pahlawan,Jalan 2 mobil,Sedang,1,<3000,Tidak
+Jl. Berudir,Jalan tol,Ramai,>1,3000-5000,Ya
+Jl. Insiden,Jalan 4 mobil,Ramai,0,<3000,Ya
+Jl. Deklarasi,Jalan 4 mobil,Sepi,1,<3000,Tidak
+Jl. Bangkok,Jalan 2 mobil,Ramai,0,>5000,Ya
+Jl. Harapan,Jalan tol,Sepi,>1,<3000,Tidak
+Jl. Marzuki,Jalan 4 mobil,Sedang,0,3000-5000,Ya
+Jl. Denpasar,Jalan 2 mobil,Sepi,0,<3000,Tidak
+Jl. H.Soleh,Jalan 4 mobil,Ramai,0,<3000,Ya
+Jl. M.Said,Jalan tol,Sepi,1,>5000,Ya
+,,,,,
+,,,,,
+,,,,,
+Jalan,Lebar Jalan,Volume Kendaraan,Jumlah pesaing,Jumlah pemukiman,Lokasi strategis
+JL. Merah Putih,Jalan tol,Sepi,>1,<3000,???
